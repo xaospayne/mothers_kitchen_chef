@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "370212907662",
+    "firebase_url": "https://motherskitchen-e42ab.firebaseio.com",
+    "project_id": "motherskitchen-e42ab",
+    "storage_bucket": "motherskitchen-e42ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370212907662:android:45829a9451da9b48f7f7df",
+        "android_client_info": {
+          "package_name": "com.xaosity.mothers_kitchen_chef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370212907662-lu35nq6hl1hmsc2s7q5b7olojndr039o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsNm1jhpBIPsYbST-1UtGUwOFUNVsZJ3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370212907662-lu35nq6hl1hmsc2s7q5b7olojndr039o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370212907662:android:58d298d9e6567b4cf7f7df",
+        "android_client_info": {
+          "package_name": "com.xaosity.motherskitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370212907662-lu35nq6hl1hmsc2s7q5b7olojndr039o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsNm1jhpBIPsYbST-1UtGUwOFUNVsZJ3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370212907662-lu35nq6hl1hmsc2s7q5b7olojndr039o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
